@@ -438,38 +438,6 @@ is invariant to all transformations in G.
 ✅ **Comprehensive visualization** and analysis  
 ✅ **Well-documented** codebase with clear explanations  
 
----
-
-## 📞 Contact & Submission
-
-**Candidate**: [Your Name]  
-**Email**: [Your Email]  
-**GSoC Project**: [Discovery of Hidden Symmetries and Conservation Laws](https://ml4sci.org/gsoc/2026/proposal_SYMMETRY1.html)  
-**Organization**: ML4SCI (Machine Learning for Science)
-
-**Submission**: This repository contains my complete test task solution for GSoC 2026.
-
-### Questions?
-- Technical questions about implementation: See [docs/THEORY.md](docs/THEORY.md)
-- Setup issues: See [docs/QUICKSTART.md](docs/QUICKSTART.md)  
-- Project questions: Email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch)
-
----
-
-## 📄 License
-
-MIT License - feel free to use this code for learning and research purposes.
-
----
-
-## 🙏 Acknowledgments
-
-- **ML4SCI** for the interesting and challenging test tasks
-- **Mentors** for clear problem formulation and guidance
-- **PyTorch team** for excellent deep learning framework
-- **Papers cited** for theoretical foundations
-
----
 
 <div align="center">
 
