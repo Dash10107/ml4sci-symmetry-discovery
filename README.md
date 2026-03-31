@@ -398,16 +398,7 @@ is invariant to all transformations in G.
 - **"Naive Lie Theory"** - John Stillwell (Accessible introduction)
 - **"Visual Group Theory"** - Nathan Carter (Intuitive explanations)
 
----
 
-## 📁 Additional Documentation
-
-- **[PROJECT_STRUCTURE.md](docs/PROJECT_STRUCTURE.md)** - Detailed repository organization
-- **[THEORY.md](docs/THEORY.md)** - Mathematical foundations and deep dives
-- **[QUICKSTART.md](docs/QUICKSTART.md)** - Quick setup guide and FAQ
-- **[RESTRUCTURING_SUMMARY.md](docs/RESTRUCTURING_SUMMARY.md)** - Repository organization details
-
----
 
 ## 🎯 Future Directions
 
